@@ -1,4 +1,4 @@
 {
-	"AO_URI": "http://devIP:8080/connect/AO",
+	"AO_URI": "http://devIP:8080/connect/AO_new",
 	"EXTERNAL_URI":"http://devIP:8080/connect/EXT"
 }
