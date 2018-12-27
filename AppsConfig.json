@@ -1,4 +1,4 @@
 {
-	"sample": "configuration",
-	"DEV_URL":"http://localhost:8080/connect/AO/Master"
+	"AO_URI": "http://devIP:8080/connect/AO",
+	"EXTERNAL_URI":"http://devIP:8080/connect/EXT"
 }
