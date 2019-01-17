@@ -1,4 +1,4 @@
 {
-	"AO_URI": "http://sitIP:8080/connect/AO/1",
+	"AO_URI": "http://sitIP:8080/connect/AO",
 	"EXTERNAL_URI":"http://sitIP:8080/connect/EXT"
 }
